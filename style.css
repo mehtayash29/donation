@@ -1,19 +1,19 @@
 body
 {
     font-family: 'Raleway', sans-serif;
-    background-color: #fff5eb;
+    background-color: #deedf0;
     background-image: url("https://www.transparenttextures.com/patterns/bedge-grunge.png") !important;
 }
 nav
 {
-    background-color: #f4c7ab;
+    background-color: #94d0cc;
     font-weight: 700;
 }
 .row
 {
     font-weight: 900;
     font-size: 200%;
-    background-color: #f4c7ab;
+    background-color: #a6d6d6;
 }
 .row p{
     padding: 5% 2% 15% 20%;
