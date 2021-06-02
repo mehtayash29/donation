@@ -1,0 +1,33 @@
+body
+{
+    font-family: 'Raleway', sans-serif;
+    background-color: #fff5eb;
+    background-image: url("https://www.transparenttextures.com/patterns/bedge-grunge.png") !important;
+}
+nav
+{
+    background-color: #f4c7ab;
+    font-weight: 700;
+}
+.row
+{
+    font-weight: 900;
+    font-size: 200%;
+    background-color: #f4c7ab;
+}
+.row p{
+    padding: 5% 2% 15% 20%;
+    font-size: larger;
+    color: #302f2f;
+}
+.row img{
+    width: 50%;
+    margin: 2% 2% 2% 20%;
+}
+#but
+{
+    margin: 1% 42%;
+    width: 10%;
+    font-weight: 400;
+    color: #ffff;
+}
