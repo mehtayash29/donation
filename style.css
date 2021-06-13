@@ -1,0 +1,93 @@
+body
+{
+    font-family: 'Mulish', sans-serif;
+    font-weight: 700 !important;
+}
+nav
+{
+    background-color: #edf1f7;
+    font-weight: 900;
+}
+#row
+{
+    background-color: #edf1f7;
+    border-radius: 0% 0% 50% 0%;
+    width: 101%;
+    overflow: hidden;
+}
+#img img{
+    width: 66%;
+    vertical-align: middle;
+    height: auto;
+}
+#text{
+    padding: 5% 0 0 7%;
+}
+#text p{
+    font-weight: 700;
+    color: #5b84b9;
+}
+#text h1{
+    font-weight: 900;
+    color: #007bff;
+    margin: 3% 0;
+}
+#but
+{
+    margin: 5% 0% 2%;
+    width: 20%;
+    font-weight: 400;
+    color: #ffff;
+    border-radius: 30px;
+}
+.stat{
+    margin: 5% 0 0 0%;
+}
+.stat h1{
+    font-weight: 900;
+    color: #007bff;
+    margin: 3% 0 2% 35%;
+}
+#data i{
+    margin: 0 0 1% 45%;
+    color: #007bff;
+}
+#data strong{
+    font-size: 30px;
+    text-align: center;
+}
+.label{
+    text-align: center;
+}
+#head
+{
+    margin-top: 5%;
+}
+#head h1{
+    font-weight: 900;
+    color: #007bff;
+}
+.container img{
+    width: 100%;
+}
+.do i{
+    margin: 0 2%;
+    color: rgb(23, 177, 2);
+}
+.dont i{
+    margin: 0 2%;
+    color:red;
+}
+.container h3{
+    font-weight: 700;
+}
+#footer {
+    text-align: center;
+    background-color: #edf1f7;
+    padding: 1% 5%;
+    color: #5b84b9;
+  }
+.fo {
+    margin: 10px;
+    color: #5b84b9;
+}
